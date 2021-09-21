@@ -19,10 +19,6 @@ project. The artwork and logos were made by [Joukje Willemsen](https://joukjewil
 
 <img src="LogoASReview/ContentOverview.png" width=900>
 
-* The folder **LogoASReviewLAB** contains raw and compiled files of the ASReviewLAB logo:
-
-<img src="LogoASReviewLAB/RepoCardASReviewLAB.png" width=900>
-
 * The folder **LottieAnimation** contains animated json files created with [Lottie](https://github.com/airbnb/lottie-web) 
 
 ![](LottieAnimation/Training/TrainingElasJump.gif)
@@ -35,6 +31,10 @@ project. The artwork and logos were made by [Joukje Willemsen](https://joukjewil
 
 * The folder **Stickers** contains AI files of stickers that were designed a while back (hence a little outdated)
 <img src="Stickers/3stickers.png" width=600>
+
+* The folder **SubLogos** contains raw and compiled files of the ASReviewLAB and ASReviewRESEARCH logos:
+
+<img src="SubLogos/RepoCardSubLogos.png" width=900>
 
 * The folder **SVGicons** contains svg's that can be used on the website or in the app
 
